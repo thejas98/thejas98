@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently pursuing a Master's in Data Architecture and Management<br>specializing in Data Engineering at Northeastern University.<br><br>I have around 3 Years experience as a Software Engineering in the <br>Fintech Industry at ACI worldwide working on products like Zelle.
+🔭 I'm currently pursuing a Master's in Data Architecture and Management specializing in Data Engineering at Northeastern University.<br>
+🌱 I have around 3 Years experience as a Software Engineering in the Fintech Industry at ACI worldwide working on products like Zelle.
 
 
 ## 🌐 Socials:
